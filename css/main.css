@@ -3,14 +3,14 @@
 /* Set custom variables here */
 
 :root {
-  --bs-primary: #2e483a;
-  --bs-primary-rgb: 46, 72, 58;
-  --body-bg: #F6F3ED;
+  --bs-primary: #62318c;
+  --bs-primary-rgb: 98, 49, 140;
+  --body-bg: #f3edf6;
   --body-bg-rgb: 246, 243, 237;
-  --bs-light: #f6f3ed;
+  --bs-light: #f3edf6;
   --bs-light-rgb: 246, 243, 237;
 
-  --bs-navbar-active-color: #F6F3ED;
+  --bs-navbar-active-color: #f3edf6;
   --bs-navbar-active-color-rgb: 246, 243, 237;
 }
 
@@ -47,7 +47,7 @@ h1, h2, h3 {
 
 #hero {
   height: 800px;
-  background-color: #E4E6DB;
+  background-color: #e4dbe6;
   background-image: url(../images/hero-bg-img.png);
   background-repeat: no-repeat;
   background-position: center;
