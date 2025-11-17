@@ -140,11 +140,15 @@ body {
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 20rem;
   background-color: #f1f1f1;
   position: fixed;
   height: 100%;
   overflow: auto;
+}
+
+#map {
+  height: 20rem;
 }
 
 .sidebar a {
@@ -266,16 +270,6 @@ ul {
   list-style-type: none;
 }
 
-/* This CSS rule targets all <ul> elements and sets their list-style-type to none, effectively removing the bullet points.
-You can also apply this to a specific <ul> by using a class or ID:
-Code
-
-<ul class="no-bullets">
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ul>
-
-Code */
 .no-bullets {
   list-style-type: none;
 }
